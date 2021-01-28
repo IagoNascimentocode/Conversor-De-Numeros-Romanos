@@ -2,9 +2,9 @@
 <br>
 <h1>>Lógica aplicada:</h1>
 <br>
-Criamos um obejto com suas respectivas representações. e retornamos o mesmo caso seja apenas um numero romano.
+Criamos um obejto com suas respectivas representações. e retornamos o mesmo, caso seja apenas um numero romano.
 
-Se forem duas letras, precisamos verificar se ela é maior ou menos que a primeira letra. Caso seja maior some a primeira letra. Se não, a diminua .
+Se forem duas letras, precisamos verificar se ela é maior ou menor que a primeira letra. Caso seja maior some a primeira letra. Se não, a diminua .
 <br>
 <br>
 <h1>Wikipédia</h1>
